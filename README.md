@@ -8,5 +8,3 @@ Development on the Watson Design Guide is done in this repository. Patterns are 
 ## Working with the Design Guide
 
 Development is done through Node. Please refer to the [Developing for the Design Guide](https://github.com/IBM-Watson/design-guide/wiki/Developing-for-the-Design-Guide) wiki article for how to get started and how to work on the Design Guide.
-
-TEST!
